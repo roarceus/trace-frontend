@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/(.*)",
+        "destination": "https://api-server.prd.gcp.csyeteam03.xyz/$1"
+      }
+    ]
+  }
+  
